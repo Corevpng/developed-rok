@@ -1,0 +1,186 @@
+{
+    "Roma": {
+        "buildingsLevel": 0,
+        "technologiesLevel": 0,
+        "troops": {
+            "infantry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            },
+            "cavalry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            }
+        },
+        "resources": {
+            "wood": 0,
+            "stone": 0,
+            "gold": 0
+        }
+    },
+    "Almanya": {
+        "buildingsLevel": 0,
+        "technologiesLevel": 0,
+        "troops": {
+            "infantry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            },
+            "cavalry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            }
+        },
+        "resources": {
+            "wood": 0,
+            "stone": 0,
+            "gold": 0
+        }
+    },
+    "Osmanlı": {
+        "buildingsLevel": 0,
+        "technologiesLevel": 0,
+        "troops": {
+            "infantry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            },
+            "cavalry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            }
+        },
+        "resources": {
+            "wood": 0,
+            "stone": 0,
+            "gold": 0
+        }
+    },
+    "Mısır": {
+        "buildingsLevel": 0,
+        "technologiesLevel": 0,
+        "troops": {
+            "infantry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            },
+            "cavalry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            }
+        },
+        "resources": {
+            "wood": 0,
+            "stone": 0,
+            "gold": 0
+        }
+    },
+    "Çin": {
+        "buildingsLevel": 0,
+        "technologiesLevel": 0,
+        "troops": {
+            "infantry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            },
+            "cavalry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            }
+        },
+        "resources": {
+            "wood": 0,
+            "stone": 0,
+            "gold": 0
+        }
+    },
+    "Bizans": {
+        "buildingsLevel": 0,
+        "technologiesLevel": 0,
+        "troops": {
+            "infantry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            },
+            "cavalry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            }
+        },
+        "resources": {
+            "wood": 0,
+            "stone": 0,
+            "gold": 0
+        }
+    },
+    "Kore": {
+        "buildingsLevel": 0,
+        "technologiesLevel": 0,
+        "troops": {
+            "infantry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            },
+            "cavalry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            }
+        },
+        "resources": {
+            "wood": 0,
+            "stone": 0,
+            "gold": 0
+        }
+    },
+    "Japonya": {
+        "buildingsLevel": 0,
+        "technologiesLevel": 0,
+        "troops": {
+            "infantry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            },
+            "cavalry": {
+                "amount": 0,
+                "level": 0,
+                "attack": 0,
+                "defense": 0
+            }
+        },
+        "resources": {
+            "wood": 0,
+            "stone": 0,
+            "gold": 0
+        }
+    }
+}
